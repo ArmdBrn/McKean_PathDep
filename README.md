@@ -10,3 +10,5 @@ Composition:
   - The numerical errors associated to the convergence in Wasserstein distance for the OU process are contained in files error_final_OU_M100, error_final_OU_M2000 and error_final_OU_MN55;
   - The numerical errors associated to the convergence in Wasserstein distance for individual coordinates of the Neural Mass model are contained in error_final_Neural_Wasserstein;
   - The numerical errors associated to the convergence in Wasserstein distance estimated through test functions of the Neural Mass model are contained in error_final_Neural_Wasserstein.
+
+Files containing particle simulations are available on Zenodo, https://zenodo.org/doi/10.5281/zenodo.11656117
